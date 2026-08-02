@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.17.0] - 2026-08-02
+
+### Changed
+
+- Update all i18n files by GPT 5.6 Sol High
+  - AI may make mistakes. If you find any problems, please [open an issue](https://github.com/g1eny0ung/hugo-theme-dream/issues) to tell me. Thank you!
+
 ## [3.16.1] - 2026-07-20
 
 ### Changed
